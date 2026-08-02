@@ -1,23 +1,124 @@
-## Hi there 👋
-# 💫 About Me:
-🔭 I'm currently working on: Full-Stack Web Development, AI-powered applications, and scalable software solutions.<br><br>👯 I'm looking to collaborate on: Open Source projects, AI/ML applications, Full-Stack Development, and Hackathons.<br><br>🤝 I'm looking for help with: System Design, Cloud Technologies, and High-Performance Backend Development.<br><br>🌱 I'm currently learning: Advanced Data Structures & Algorithms, System Design, DevOps, Cloud Computing, and Generative AI.<br><br>💬 Ask me about: Java, Python, JavaScript, React, Node.js, SQL, Firebase, Git, UI/UX Design, and Problem Solving.<br><br>⚡ Fun fact: I enjoy building impactful products, solving complex coding challenges, and continuously exploring emerging technologies to create innovative solutions.
+<h1 align="center">Hi 👋, I'm Gali Dohal</h1>
+<h3 align="center">Computer Science Engineering Student | Full Stack Developer | AI Enthusiast</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00F79A&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI+%26+Generative+AI+Enthusiast;100%2B+LeetCode+Problems+Solved;Building+Innovative+Software+Solutions" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gali%20Dohal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galidohal/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:[![Gmail](https://img.shields.io/badge/Gmail-dohalwalker%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dohalwalker@gmail.com)) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Dohal2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Dohal2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dohal2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dohal2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dohal2005&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Dohal2005&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 💫 About Me
+
+- 🔭 I'm currently working on **Full Stack Web Development & AI-powered Applications**
+- 🌱 I'm currently learning **System Design, Cloud Computing, DevOps & Generative AI**
+- 👯 I'm looking to collaborate on **Open Source, AI/ML and Full Stack Projects**
+- 💬 Ask me about **Java, Python, JavaScript, React, SQL, Firebase and UI/UX**
+- ⚡ Fun fact: **I love turning ideas into impactful software and have solved 100+ LeetCode problems.**
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/galidohal/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-Gali%20Dohal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dohalwalker@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-dohalwalker%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,react,nextjs,nodejs,tailwind,firebase,mysql,mongodb,git,github,figma,vscode,vercel"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dohal2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dohal2005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dohal2005&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dohal2005&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dohal2005/Dohal2005/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dohal2005/Dohal2005/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Dohal2005/Dohal2005/output/github-snake.svg">
+</picture>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dohal2005&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌱 **UrbanRoots Collective** | Volunteer platform connecting communities through interactive environmental cleanup initiatives. |
+| 💰 **FinFlare** | Gamified financial literacy platform helping Gen Z learn money management. |
+| 💪 **ImpactPlus** | Lifestyle transformation tracker focusing on fitness, habits and accountability. |
+| 📄 **IEEE Research Paper** | Published research on AI-driven solutions and emerging technologies. |
+
+---
+
+# ✨ Quote of the Day
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ If you like my work, consider giving a ⭐ to my repositories! ⭐
+
+</h3>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 <picture>
